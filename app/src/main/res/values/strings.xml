@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Funko-App</string>
+    <string name="register_app_name">Funkoss</string>
+    <string name="register_title">Register</string>
+    <string name="register_input_hint_fullName">Full Name</string>
+    <string name="register_fullName_input_content_description_end_icon">FullName</string>
+    <string name="register_fullName_input_hint">Full Name</string>
+    <string name="register_nickname_input_hint">Nickname</string>
+    <string name="register_nickname_input_content_description_end_icon">Nickname</string>
+    <string name="register_phoneNumber_input_hint">Phone Number</string>
+    <string name="register_phoneNumber_input_content_description_end_icon">Phone Number</string>
+    <string name="register_password_input_hint">Password</string>
+    <string name="register_password_input_content_description_end_icon">Password</string>
+    <string name="login_tittle">Login</string>
+    <string name="card_title">Funko Pop</string>
+    <string name="card_description">Los Funko Pop son figuras con un diseño peculiar. Basados en el concepto japonés chibi de estilo aniñado, tienen cuerpos reducidos y cabezas grandes en comparación con el cuerpo. Muñecos cabezones que representan personajes de cómics, de Disney, series de TV, películas o incluso personas realess</string>
+</resources>
